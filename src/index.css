@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.option{
+@apply  absolute m-0 p-0 list-none max-h-[15em] overflow-y-auto border-[0.05em] border-gray-500 rounded-md w-full left-0 top-[calc(100%+0.25em)] bg-white z-[100]
+
+
+
+}
